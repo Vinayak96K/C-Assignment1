@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDigit", "CountDigit\CountDigit.csproj", "{9E06210A-48E1-4C81-8508-B6A19DEED9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E06210A-48E1-4C81-8508-B6A19DEED9AA}.Debug|x86.ActiveCfg = Debug|x86
+		{9E06210A-48E1-4C81-8508-B6A19DEED9AA}.Debug|x86.Build.0 = Debug|x86
+		{9E06210A-48E1-4C81-8508-B6A19DEED9AA}.Release|x86.ActiveCfg = Release|x86
+		{9E06210A-48E1-4C81-8508-B6A19DEED9AA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

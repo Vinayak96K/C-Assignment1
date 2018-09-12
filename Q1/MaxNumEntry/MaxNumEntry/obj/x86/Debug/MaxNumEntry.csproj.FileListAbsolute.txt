@@ -1,0 +1,11 @@
+/home/vinayak/C#/Homework/Q1/MaxNumEntry/MaxNumEntry/bin/Debug/MaxNumEntry.exe
+/home/vinayak/C#/Homework/Q1/MaxNumEntry/MaxNumEntry/bin/Debug/MaxNumEntry.pdb
+/home/vinayak/C#/Homework/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.exe
+/home/vinayak/C#/Homework/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q1/MaxNumEntry/MaxNumEntry/bin/Debug/MaxNumEntry.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q1/MaxNumEntry/MaxNumEntry/bin/Debug/MaxNumEntry.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.csprojResolveAssemblyReference.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q1/MaxNumEntry/MaxNumEntry/obj/x86/Debug/MaxNumEntry.pdb

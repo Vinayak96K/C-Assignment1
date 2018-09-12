@@ -1,0 +1,16 @@
+/home/vinayak/Projects/SwappingNumber/SwappingNumber/bin/Debug/SwappingNumber.exe
+/home/vinayak/Projects/SwappingNumber/SwappingNumber/bin/Debug/SwappingNumber.pdb
+/home/vinayak/Projects/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.csproj.CoreCompileInputs.cache
+/home/vinayak/Projects/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.exe
+/home/vinayak/Projects/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.pdb
+/home/vinayak/C#/Homework/Q5/SwappingNumber/SwappingNumber/bin/Debug/SwappingNumber.exe
+/home/vinayak/C#/Homework/Q5/SwappingNumber/SwappingNumber/bin/Debug/SwappingNumber.pdb
+/home/vinayak/C#/Homework/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.csprojResolveAssemblyReference.cache
+/home/vinayak/C#/Homework/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.exe
+/home/vinayak/C#/Homework/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q5/SwappingNumber/SwappingNumber/bin/Debug/SwappingNumber.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q5/SwappingNumber/SwappingNumber/bin/Debug/SwappingNumber.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q5/SwappingNumber/SwappingNumber/obj/x86/Debug/SwappingNumber.pdb

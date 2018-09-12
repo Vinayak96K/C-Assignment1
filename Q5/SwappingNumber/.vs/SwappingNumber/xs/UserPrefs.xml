@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B3F21745-9C9A-412B-819F-471CED67EA00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwappingNumber/Program.cs">
+    <Files>
+      <File FileName="SwappingNumber/Program.cs" Line="34" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwappingNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

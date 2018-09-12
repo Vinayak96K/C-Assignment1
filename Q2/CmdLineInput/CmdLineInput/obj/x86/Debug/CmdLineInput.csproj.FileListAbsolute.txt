@@ -1,0 +1,11 @@
+/home/vinayak/C#/Homework/Q2/CmdLineInput/CmdLineInput/bin/Debug/CmdLineInput.exe
+/home/vinayak/C#/Homework/Q2/CmdLineInput/CmdLineInput/bin/Debug/CmdLineInput.pdb
+/home/vinayak/C#/Homework/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.exe
+/home/vinayak/C#/Homework/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q2/CmdLineInput/CmdLineInput/bin/Debug/CmdLineInput.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q2/CmdLineInput/CmdLineInput/bin/Debug/CmdLineInput.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.csprojResolveAssemblyReference.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q2/CmdLineInput/CmdLineInput/obj/x86/Debug/CmdLineInput.pdb

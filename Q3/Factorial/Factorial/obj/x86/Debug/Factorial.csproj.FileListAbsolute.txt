@@ -1,0 +1,10 @@
+/home/vinayak/C#/Homework/Q3/Factorial/Factorial/bin/Debug/Factorial.exe
+/home/vinayak/C#/Homework/Q3/Factorial/Factorial/bin/Debug/Factorial.pdb
+/home/vinayak/C#/Homework/Q3/Factorial/Factorial/obj/x86/Debug/Factorial.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/Q3/Factorial/Factorial/obj/x86/Debug/Factorial.exe
+/home/vinayak/C#/Homework/Q3/Factorial/Factorial/obj/x86/Debug/Factorial.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q3/Factorial/Factorial/bin/Debug/Factorial.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q3/Factorial/Factorial/bin/Debug/Factorial.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q3/Factorial/Factorial/obj/x86/Debug/Factorial.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q3/Factorial/Factorial/obj/x86/Debug/Factorial.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q3/Factorial/Factorial/obj/x86/Debug/Factorial.pdb

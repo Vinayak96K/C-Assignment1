@@ -1,0 +1,11 @@
+/home/vinayak/C#/Homework/Q4/CountDigit/CountDigit/bin/Debug/CountDigit.exe
+/home/vinayak/C#/Homework/Q4/CountDigit/CountDigit/bin/Debug/CountDigit.pdb
+/home/vinayak/C#/Homework/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.csprojResolveAssemblyReference.cache
+/home/vinayak/C#/Homework/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.exe
+/home/vinayak/C#/Homework/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q4/CountDigit/CountDigit/bin/Debug/CountDigit.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q4/CountDigit/CountDigit/bin/Debug/CountDigit.pdb
+/home/vinayak/C#/Homework/C#Assignment1/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment1/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.exe
+/home/vinayak/C#/Homework/C#Assignment1/Q4/CountDigit/CountDigit/obj/x86/Debug/CountDigit.pdb
